@@ -26,7 +26,7 @@ I hope I got the colors right... There are a few shades that look the same to me
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-recipe-page-23I-Paysy5](https://www.frontendmentor.io/solutions/responsive-recipe-page-23I-Paysy5)
 - Live Site URL: [https://tortaruga.github.io/recipe-page-project/](https://your-live-site-url.com)
 
 ## My process
