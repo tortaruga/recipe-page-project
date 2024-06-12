@@ -140,7 +140,19 @@ td {
     color: var(--nutmeg);
 }
 
+footer {
+    padding: 1.5rem;
+}
+
+.attribution a {
+    color:var(--dark-raspberry)
+}
+
 @media screen and (min-width: 500px) {
+  body {
+    padding-inline: 1rem;
+  }
+
   main {
     margin: 6rem auto;
     border-radius:  1.2rem;
@@ -150,12 +162,4 @@ td {
     border-radius: .6rem;
     padding:2.5rem 2.5rem 0;
   }
-}
-
-footer {
-    padding: 1.5rem;
-}
-
-.attribution a {
-    color:var(--dark-raspberry)
 }
